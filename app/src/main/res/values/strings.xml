@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Notes</string>
+    <string name="empty">Adicione uma nota\npara visualizá-la aqui</string>
+    <string name="text">Nota de texto</string>
+    <string name="add">Adicionar</string>
+    <string name="name">
+        Gustavo Akira Maedo Santos\n
+        RM 82563
+    </string>
+</resources>
